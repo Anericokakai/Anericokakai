@@ -1,4 +1,4 @@
-Hi 👋 My name is Anerico Kakai
+Hi , Im Kakai
 ==============================
 
 Backend developer, web developer
@@ -7,7 +7,7 @@ Backend developer, web developer
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [My portfolio](http://anericokakai.github.io/anerico_portfolio_website/)
 * ✉️  You can contact me at [anericomisiko@gmail.com](mailto:anericomisiko@gmail.com)
-* 🧠  I'm learning Spring boot, java,advanced react
+* 🧠  Java ,Node js , mongodb , react, postgress
 
 ### Skills
 
