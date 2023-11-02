@@ -1,6 +1,6 @@
+![logo](https://github.com/Anericokakai/Anericokakai/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Kakai</h1>
 <h3 align="center">Backend Dev</h3>
-<img align="right" alt="backend stuff" width="400" src="https://cdn.dribbble.com/users/285475/screenshots/2083086/media/a683df6fd0b57db02968b6194c88d868.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anericokakai&label=Profile%20views&color=0e75b6&style=flat" alt="anericokakai" /> </p>
 
@@ -12,7 +12,6 @@
 
 - 📝 Find my Blogs on codefree [https://codefree-3b04a.web.app/login/lessonsHome](https://codefree-3b04a.web.app/login/lessonsHome)
 
-- 💬 Ask me about **Spring boot ,nodejs ,express**
 
 - 📫 How to reach me **anericomisiko@gmail.com**
 
